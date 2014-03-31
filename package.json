@@ -1,0 +1,17 @@
+{
+  "name": "deps-optimizer",
+  "version": "0.1.0",
+  "description": "optimize dependency object",
+  "author": "yiminghe <yiminghe@gmail.com>",
+  "directories": {
+    "lib": "./lib/"
+  },
+  "main": "./lib/optimizer.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kissyteam/kissy.git"
+  },
+  "devDependencies": {
+    "jasmine-node": "~1.14.2"
+  }
+}
