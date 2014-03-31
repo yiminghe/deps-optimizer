@@ -9,7 +9,7 @@
   "main": "./lib/optimizer.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/kissyteam/kissy.git"
+    "url": "git@github.com:yiminghe/deps-optimizer.git"
   },
   "devDependencies": {
     "jasmine-node": "~1.14.2"
